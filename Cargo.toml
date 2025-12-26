@@ -2,7 +2,8 @@
 name = "KrishnaBharagvN-catsay"
 version = "0.1.0"
 edition = "2024"
-
+description = "Custom catsay package"
+license = "MIT"
 [dependencies]
 assert_cmd = "2.1.1"
 colored = "3.0.0"
