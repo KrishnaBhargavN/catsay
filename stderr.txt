@@ -1,0 +1,5 @@
+   Compiling colored v3.0.0
+   Compiling catsay v0.1.0 (/home/krishna-bhargav-n/Interests/Rust/programming_in_rust/catsay)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.52s
+     Running `target/debug/catsay woof`
+Error: Cats don't bark!
